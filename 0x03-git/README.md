@@ -1,5 +1,5 @@
                             Git
-Learning how to navigate through git.
+Learning how to navigate through git and learning how to collaborate with others in git.
 
 
                            Technologies
